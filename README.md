@@ -1,4 +1,4 @@
-#### Instagram Data Scraping Utility
+# Instagram Data Scraping Utility
 Overview
 This utility allows you to scrape data from public Instagram profiles quickly. Follow the steps below to set up and use the tool.
 
