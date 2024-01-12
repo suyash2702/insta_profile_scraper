@@ -13,5 +13,5 @@ do
 
      # Execute the updated curl command and append the result to instaData.txt
      eval "$curl_with_username" --compressed >> instaData.txt
-     python3 instaScrap.py
+     python3 saveData.py
 done
